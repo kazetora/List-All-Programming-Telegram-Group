@@ -58,6 +58,9 @@ A list of awesome groups related to programming language on Telegram.
 
 * **Swift**
   + [Swift Indonesia](https://t.me/swiftID)
+
+* **C/C++**
+  + [Indonesia C/C++ Warriors](https://t.me/idcplc)
   
 ### IOT
 * [Raspberry PI Indonesia](https://t.me/raspberrypi_id)
